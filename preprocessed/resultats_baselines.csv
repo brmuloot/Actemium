@@ -1,0 +1,3 @@
+Modèle,MAE,RMSE,Skill (%)
+Persistence (t → t+10),0.0339,0.0467,
+Moyenne train (naive),2.5341,2.6669,-5614.8227
