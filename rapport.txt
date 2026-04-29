@@ -1,0 +1,6 @@
+Rendu :
+
+Clef en main (interprétation sur les courbes)
+rendu notebook script
+Robustesse de shap remarque (faire une randomisation répété)
+faire du 70-30 60-40 sur le split 
